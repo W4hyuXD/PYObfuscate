@@ -1,6 +1,6 @@
 # Python Obafuscator 
 
-> This tool functions to attack phishing websites/scamming websites that are typically created to deceive someone by luring victims with promises of diamonds or rare in-game items. The tool's working method is quite simple, which is by sending fake login data or information to the phishing website with the aim of disrupting it.
+> Alat ini berfungsi untuk mengenkripsi sebuah file yang berisi kode Python. Bertujuan untuk menjaga keamanan kode agar tidak mudah di ambil alih oleh pihak yang tidak bertanggung jawab.
 
 ## Installation 
 ```bash
@@ -14,8 +14,7 @@ $ python3 Run.pyc
 
 ### Warning ⚠️ 
 
-> The developer is not responsible for any misuse of this tool. Please use it wisely, as the developer will not be held fully accountable for any misuse by third parties. Thank you.
-
+> Untuk menghindari crash saat menggunakan tools ini anda di sarankan untuk memasukkan angka default pada bagian input XOR key Dan jumlah loops.
 <details>
     <summary><bold>Screenshot 📸</bold></summary>
     
