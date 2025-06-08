@@ -19,8 +19,13 @@ $ python3 Run.pyc
     <summary><bold>Screenshot 📸</bold></summary>
     
  ### Obfuscator
+ ![Image](https://github.com/user-attachments/assets/0cdf4c3f-7638-449d-886a-861e3176e3ff)
 
-
+## Result
+ - .py
+![Image](https://github.com/user-attachments/assets/0ac9cf9a-f077-42bc-a86f-a9983e2a4ca8)
+ - .pyc
+![Image](https://github.com/user-attachments/assets/7b31d111-4294-477f-a08e-0b86d2fa4ed6)
 </details>
 
 ## Trakteer me a Coffee ☕ 
